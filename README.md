@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @LewLHere
+- 👋 Hi, I’m Nico - 31 years old from Hamburg.
 - 
 - 👀 I’m interested in
-- Unity, Unreal, Blender, creating my own worlds, populating them with my own assets and other players enjoying all of those.
+- Unity & Unreal, C# & Python, creating my own worlds, populating them with my own assets and other players enjoying all of those.
 - 
 - 🌱 I’m currently learning
-- - Unity fundamentals and preparing for my first ever GameJam
+- - Python & advanced Unity Tools
 - 
 - 💞️ I’m looking to collaborate on
 - Improving Dev- and Design-Skills as a team, exchange ideas & projects
