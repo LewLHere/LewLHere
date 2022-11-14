@@ -1,11 +1,13 @@
 - 👋 Hi, I’m Nico - 31 years old from Hamburg.
 - 
 - 👀 I’m interested in
-- C# & Python, improving in efficient and clean coding.
-- Unity & Unreal, creating my own worlds, populating them with my own assets and other players enjoying all of those.
+- -C# & Python, improving in efficient and clean coding.
+- -Unity & Unreal, creating my own worlds, populating them with my own assets and other players enjoying all of those.
 - 
 - 🌱 I’m currently learning
-- - Python, ABAP, Tableau
+- -Python
+- -ABAP
+- -Tableau
 - 
 - 💞️ I’m looking to collaborate on
 - Improving Dev- and Design-Skills as a team, exchange ideas & projects
